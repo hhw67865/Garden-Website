@@ -1,15 +1,39 @@
 import plants from "./data"
 import SearchResult from './SearchResult';
+import {useState} from 'react'
 
 const SearchResultsList = ()=> {
-    const searchResults = plants.map((plant)=>{
+    const [searchQuery, setSearchQuery] = useState("");
+
+    function handleChange (e) {
+        setSearchQuery(e.target.value)
+    }
+    
+    const filteredPlants = plants.filter((plant)=>{
         
-        return <SearchResult key={plant.id} vegetable={plant.vegetable} maturity={plant.maturity} cultivars={plant.cultivars} plantingDates={plant.plantingDates} spacing={plant.spacing} depth={plant.depth}></SearchResult>
+        return plant.vegetable.toLowerCase().includes(searchQuery.toLowerCase())
     })
+
+
+    const searchResults = filteredPlants.map((plant)=>{
+        
+        return <SearchResult key={plant.id} {...plant}></SearchResult>
+    })
+
+
+
+
+
+
     return (
-        <div className="grid-container">
-            {searchResults}
-        </div>
+        <>
+            <div id="plantSearch">
+                <input type="text" onChange={handleChange} placeholder="Search.."></input>
+            </div>
+            <div className="grid-container">
+                {searchResults}
+            </div>
+        </>
     )
 }
 
