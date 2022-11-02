@@ -1,4 +1,4 @@
-import plants from "./data"
+import plants from "../data"
 import SearchResult from './SearchResult';
 import {useState} from 'react'
 
@@ -26,14 +26,14 @@ const SearchResultsList = ()=> {
 
 
     return (
-        <>
+        <div className="item3">
             <div id="plantSearch">
                 <input type="text" onChange={handleChange} placeholder="Search.."></input>
             </div>
-            <div className="grid-container">
+            <div className="searchResults">
                 {searchResults}
             </div>
-        </>
+        </div>
     )
 }
 

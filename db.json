@@ -1,4 +1,4 @@
-const plants = [
+[
     {
      "id": 1,
      "vegetable": "asparagus",
@@ -459,6 +459,3 @@ const plants = [
      "depth": "1”-2”"
     }
    ]
-
-
-export default plants
