@@ -1,19 +1,8 @@
-import plants from "../data"
+
 import SearchResult from './SearchResult';
-import {useState} from 'react'
 
-const SearchResultsList = ()=> {
-    const [searchQuery, setSearchQuery] = useState("");
 
-    function handleChange (e) {
-        setSearchQuery(e.target.value)
-    }
-    
-    const filteredPlants = plants.filter((plant)=>{
-        
-        return plant.vegetable.toLowerCase().includes(searchQuery.toLowerCase())
-    })
-
+const SearchResultsList = ({filteredPlants})=> {
 
     const searchResults = filteredPlants.map((plant)=>{
         
@@ -21,15 +10,9 @@ const SearchResultsList = ()=> {
     })
 
 
-
-
-
-
     return (
         <div className="item3">
-            <div id="plantSearch">
-                <input type="text" onChange={handleChange} placeholder="Search.."></input>
-            </div>
+            
             <div className="searchResults">
                 {searchResults}
             </div>
