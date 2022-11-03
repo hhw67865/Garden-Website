@@ -6,7 +6,8 @@ const plants = [
      "cultivars": "Jersey Giant, Jersey Knight, Mary Washington, Purple Passion",
      "plantingDates": "Jan. 15 – Mar. 15, Nov. &amp; Dec.",
      "spacing": "36” x 18-24”",
-     "depth": "6”"
+     "depth": "6”",
+     img: "https://blog.jungseed.com/wp-content/uploads/2021/03/Growing-Asparagus-1024x683.jpg"
     },
     {
      "id": 2,
@@ -15,7 +16,9 @@ const plants = [
      "cultivars": "Bronco, Blue Lake 274, Half-Runners (State, White, Volunteer), Kentucky Runner, Roma",
      "plantingDates": "Mar. 15 – May 1, Jul. 5 – Aug. 10",
      "spacing": "36” x 2-4”",
-     "depth": "1”-11.5”"
+     "depth": "1”-11.5”",
+     img: "https://blog.jungseed.com/wp-content/uploads/2021/03/Growing-Asparagus-1024x683.jpg"
+     
     },
     {
      "id": 3,
@@ -24,7 +27,8 @@ const plants = [
      "cultivars": "Blue Lake, Dade, Kentucky Blue, Moccasin",
      "plantingDates": "Mar. 15 – May 10, Jul. 1 – Aug. 1",
      "spacing": "36” x 4-12”",
-     "depth": "1”-1.5”"
+     "depth": "1”-1.5”",
+     img: "https://blog.jungseed.com/wp-content/uploads/2021/03/Growing-Asparagus-1024x683.jpg"
     },
     {
      "id": 4,
@@ -33,7 +37,8 @@ const plants = [
      "cultivars": "Henderson’s Bush Fordhook 242, Jackson Wonder (Speckled)",
      "plantingDates": "Mar. 15 – Jun. 1, Jul. 1 – Aug. 1",
      "spacing": "36” x 3-4”",
-     "depth": "1”-1.5”"
+     "depth": "1”-1.5”",
+     img: "https://blog.jungseed.com/wp-content/uploads/2021/03/Growing-Asparagus-1024x683.jpg"
     },
     {
      "id": 5,
@@ -42,7 +47,8 @@ const plants = [
      "cultivars": "Sieva, Florida Speckled",
      "plantingDates": "Mar. 15 – Jun. 1, Jul. 1 – Aug. 1",
      "spacing": "36” x 6-8”",
-     "depth": "1”-1.5”"
+     "depth": "1”-1.5”",
+     img: "https://blog.jungseed.com/wp-content/uploads/2021/03/Growing-Asparagus-1024x683.jpg"
     },
     {
      "id": 6,
@@ -51,7 +57,8 @@ const plants = [
      "cultivars": "Detroit Dark Red, Red Ace, Ruby Queen",
      "plantingDates": "Feb. 15 – Apr. 1, Aug. 1 – Sep. 20",
      "spacing": "18-36” x 2”",
-     "depth": "0.5”"
+     "depth": "0.5”",
+     img: "https://blog.jungseed.com/wp-content/uploads/2021/03/Growing-Asparagus-1024x683.jpg"
     },
     {
      "id": 7,
@@ -60,7 +67,8 @@ const plants = [
      "cultivars": "Marathon, Packman, Patriot, Premium Crop, Bravo, Decathion",
      "plantingDates": "Feb. 15 – Mar. 15, Aug. 1 – Sep. 1",
      "spacing": "36” x 12”",
-     "depth": "–––"
+     "depth": "–––",
+     img: "https://blog.jungseed.com/wp-content/uploads/2021/03/Growing-Asparagus-1024x683.jpg"
     },
     {
      "id": 8,
@@ -69,7 +77,8 @@ const plants = [
      "cultivars": "Dixie",
      "plantingDates": "Apr. 1 – May 1, Jul. 1 – Aug. 1",
      "spacing": "36” x 3-4”",
-     "depth": "1”-1.5”"
+     "depth": "1”-1.5”",
+     img: "https://blog.jungseed.com/wp-content/uploads/2021/03/Growing-Asparagus-1024x683.jpg"
     },
     {
      "id": 9,
@@ -78,7 +87,8 @@ const plants = [
      "cultivars": "A&amp;C No. 5+, Blue Dynasty, Bravo, Early Round Dutch, Rio Verde, Green Jewel",
      "plantingDates": "Jan. 15 – Mar. 15, Aug. 1 – Oct. 1",
      "spacing": "36” x 12”",
-     "depth": "–––"
+     "depth": "–––",
+     img: "https://blog.jungseed.com/wp-content/uploads/2021/03/Growing-Asparagus-1024x683.jpg"
     },
     {
      "id": 10,
@@ -87,7 +97,8 @@ const plants = [
      "cultivars": "Ambrosia, Athena, Saticoy Early, Sweet",
      "plantingDates": "Mar. 20 – Jun. 20, ",
      "spacing": "60” x 36”",
-     "depth": "1”"
+     "depth": "1”",
+     img: "https://blog.jungseed.com/wp-content/uploads/2021/03/Growing-Asparagus-1024x683.jpg"
     },
     {
      "id": 11,
@@ -96,7 +107,8 @@ const plants = [
      "cultivars": "Chantenay, Scarlet Nantes, Sweetbites, Sweet Delight, Thumbelina (small)",
      "plantingDates": "Jan. 15 – Mar. 20, Aug. 20 – Sep. 15",
      "spacing": "18-36” x 2-3”",
-     "depth": "0.25”"
+     "depth": "0.25”",
+     img: "https://blog.jungseed.com/wp-content/uploads/2021/03/Growing-Asparagus-1024x683.jpg"
     },
     {
      "id": 12,
@@ -105,7 +117,8 @@ const plants = [
      "cultivars": "Absolute, Early Snowball, Graffiti (purple color), White Magic, Symphony",
      "plantingDates": "Mar. 1 – Apr. 1, Jul. 15 – Aug. 15",
      "spacing": "36” x 12”",
-     "depth": "–––"
+     "depth": "–––",
+     img: "https://blog.jungseed.com/wp-content/uploads/2021/03/Growing-Asparagus-1024x683.jpg"
     },
     {
      "id": 13,
@@ -114,7 +127,8 @@ const plants = [
      "cultivars": "Blue Max, Georgia Southern, Hevi-Crop",
      "plantingDates": "Feb. 1 – Mar. 15, Aug. 1 – Sep. 1",
      "spacing": "36” x 8-16”",
-     "depth": "0.5”"
+     "depth": "0.5”",
+     img: "https://blog.jungseed.com/wp-content/uploads/2021/03/Growing-Asparagus-1024x683.jpg"
     },
     {
      "id": 14,
@@ -123,7 +137,8 @@ const plants = [
      "cultivars": "Bodacious, Golden Queen, Honey Select, Mirai 131, Seneca",
      "plantingDates": "Mar. 15 – Jun. 1, ",
      "spacing": "36” x 12-18”",
-     "depth": "1”-1.5”"
+     "depth": "1”-1.5”",
+     img: "https://blog.jungseed.com/wp-content/uploads/2021/03/Growing-Asparagus-1024x683.jpg"
     },
     {
      "id": 15,
@@ -132,7 +147,8 @@ const plants = [
      "cultivars": "Avalon, How Sweet It Is, Seneca Sensation, Silver King, Silver Princess, Silver Queen",
      "plantingDates": "Mar. 15 – Jun. 1, ",
      "spacing": "36” x 12-18”",
-     "depth": "1”-1.5”"
+     "depth": "1”-1.5”",
+     img: "https://blog.jungseed.com/wp-content/uploads/2021/03/Growing-Asparagus-1024x683.jpg"
     },
     {
      "id": 16,
@@ -141,7 +157,8 @@ const plants = [
      "cultivars": "Ambrosia, Butter &amp; Sugar, Honey ‘n Pearl, Mirai 301, Peaches &amp; Cream, Serendipity, Sweet Breed Chorus",
      "plantingDates": "Mar. 15 – Jun. 1, ",
      "spacing": "36” x 12-18”",
-     "depth": "1”-1.5”"
+     "depth": "1”-1.5”",
+     img: "https://blog.jungseed.com/wp-content/uploads/2021/03/Growing-Asparagus-1024x683.jpg"
     },
     {
      "id": 17,
@@ -150,7 +167,8 @@ const plants = [
      "cultivars": "Bush – Salad Bush Hybrid, Bush Crop, Fanfare\nVine – Burpless Hybrid, Diva, Marketmore, Straight Eight, Sweet Slice, Sweet Success",
      "plantingDates": "Apr. 1 – May 15, Jul. 15 – Aug. 15",
      "spacing": "60” x 12”",
-     "depth": "0.5”-0.75”"
+     "depth": "0.5”-0.75”",
+     img: "https://blog.jungseed.com/wp-content/uploads/2021/03/Growing-Asparagus-1024x683.jpg"
     },
     {
      "id": 18,
@@ -159,7 +177,8 @@ const plants = [
      "cultivars": "Bush Pickle, Calypso, County Fair",
      "plantingDates": "Apr. 1 – May 15, Jul. 15 – Aug. 15",
      "spacing": "60” x 12”",
-     "depth": "0.5”-0.75”"
+     "depth": "0.5”-0.75”",
+     img: "https://blog.jungseed.com/wp-content/uploads/2021/03/Growing-Asparagus-1024x683.jpg"
     },
     {
      "id": 19,
@@ -168,7 +187,8 @@ const plants = [
      "cultivars": "Calypso, General Lee",
      "plantingDates": "Apr. 1 – May 15, Jul. 15 – Aug. 15",
      "spacing": "60” x 12”",
-     "depth": "0.5”-0.75”"
+     "depth": "0.5”-0.75”",
+     img: "https://blog.jungseed.com/wp-content/uploads/2021/03/Growing-Asparagus-1024x683.jpg"
     },
     {
      "id": 20,
@@ -177,7 +197,8 @@ const plants = [
      "cultivars": "Black Beauty, Classic, Dusky, Ghost Buster’s (white), Calliope",
      "plantingDates": "Apr. 1 – May 15, Jul. 10 – Jul. 30",
      "spacing": "36” x 24”",
-     "depth": "–––"
+     "depth": "–––",
+     img: "https://blog.jungseed.com/wp-content/uploads/2021/03/Growing-Asparagus-1024x683.jpg"
     },
     {
      "id": 21,
@@ -186,7 +207,8 @@ const plants = [
      "cultivars": "Vates, Dwarf Siberian, Blue Armor, Blue Knight",
      "plantingDates": "Feb. 1 – Mar. 10, Aug. 1 – Sep. 1",
      "spacing": "36” x 8-16”",
-     "depth": "0.5”"
+     "depth": "0.5”",
+     img: "https://blog.jungseed.com/wp-content/uploads/2021/03/Growing-Asparagus-1024x683.jpg"
     },
     {
      "id": 22,
@@ -195,7 +217,8 @@ const plants = [
      "cultivars": "Butterhead, Romaine, Buttercrunch",
      "plantingDates": "Jan. 15 – Mar. 1, Sep. 1 – Oct. 1",
      "spacing": "18-36” x 8-12”",
-     "depth": "1\/8”"
+     "depth": "1\/8”",
+     img: "https://blog.jungseed.com/wp-content/uploads/2021/03/Growing-Asparagus-1024x683.jpg"
     },
     {
      "id": 23,
@@ -204,7 +227,8 @@ const plants = [
      "cultivars": "Florida Broadleaf, Southern Giant Curled, Red Giant, Savannah",
      "plantingDates": "Jan. 15 – Apr. 1, Aug. 15 – Sep. 15",
      "spacing": "18-36” x 2”",
-     "depth": "0.5”"
+     "depth": "0.5”",
+     img: "https://blog.jungseed.com/wp-content/uploads/2021/03/Growing-Asparagus-1024x683.jpg"
     },
     {
      "id": 24,
@@ -213,7 +237,8 @@ const plants = [
      "cultivars": "Annie Oakley II, Burgundy, Cajun Delight, Clemson Spineless",
      "plantingDates": "Apr. 1 – Jun. 1, Jun. 15 – Jul. 10",
      "spacing": "36” x 12”",
-     "depth": "1”"
+     "depth": "1”",
+     img: "https://blog.jungseed.com/wp-content/uploads/2021/03/Growing-Asparagus-1024x683.jpg"
     },
     {
      "id": 25,
@@ -222,7 +247,8 @@ const plants = [
      "cultivars": "White Portugal",
      "plantingDates": "Jan. 1 – Mar. 15, Sep. 1 – Dec. 31",
      "spacing": "18-36” x 3”",
-     "depth": "–––"
+     "depth": "–––",
+     img: "https://blog.jungseed.com/wp-content/uploads/2021/03/Growing-Asparagus-1024x683.jpg"
     },
     {
      "id": 26,
@@ -231,7 +257,8 @@ const plants = [
      "cultivars": "Burgundy, Excel, Grano, Red Creole, Savannah Sweet",
      "plantingDates": "Jan. 1 – Mar. 15, Oct. 10 – Nov. 10",
      "spacing": "18-36” x 3-4”",
-     "depth": "–––"
+     "depth": "–––",
+     img: "https://blog.jungseed.com/wp-content/uploads/2021/03/Growing-Asparagus-1024x683.jpg"
     },
     {
      "id": 27,
@@ -240,7 +267,8 @@ const plants = [
      "cultivars": "Lincoln, Jackson Wonder, Wando, Little Marvel, Green Arrow, Maestro",
      "plantingDates": "Jan. 15 – Feb. 15, ",
      "spacing": "36” x 2”",
-     "depth": "1”-2”"
+     "depth": "1”-2”",
+     img: "https://blog.jungseed.com/wp-content/uploads/2021/03/Growing-Asparagus-1024x683.jpg"
     },
     {
      "id": 28,
@@ -249,7 +277,8 @@ const plants = [
      "cultivars": "Sugar Daddy, Snow Pea, Sugar Snap",
      "plantingDates": "Jan. 15 – Feb. 15, ",
      "spacing": "36” x 2”",
-     "depth": "1”-2”"
+     "depth": "1”-2”",
+     img: "https://blog.jungseed.com/wp-content/uploads/2021/03/Growing-Asparagus-1024x683.jpg"
     },
     {
      "id": 29,
@@ -258,7 +287,8 @@ const plants = [
      "cultivars": "Blackeyed – California #5 Pinkeyed – Purple Hull FVR Cream Pea – Texas Crėme\nCrowder Pea – Mississippi Silver, Zipper Cream",
      "plantingDates": "Apr. 1 – Aug. 10, ",
      "spacing": "36” x 3-4”",
-     "depth": "1”-2”"
+     "depth": "1”-2”",
+     img: "https://blog.jungseed.com/wp-content/uploads/2021/03/Growing-Asparagus-1024x683.jpg"
     },
     {
      "id": 30,
@@ -267,7 +297,8 @@ const plants = [
      "cultivars": "Big Bertha, Camelot x3a, Colossal, Karma",
      "plantingDates": "Apr. 1 – Jun. 1, Jul. 25 – Aug. 10",
      "spacing": "36” x 24”",
-     "depth": "–––"
+     "depth": "–––",
+     img: "https://blog.jungseed.com/wp-content/uploads/2021/03/Growing-Asparagus-1024x683.jpg"
     },
     {
      "id": 31,
@@ -276,7 +307,8 @@ const plants = [
      "cultivars": "Habeñero, Jalepeño, Tula, Marbles",
      "plantingDates": "Apr. 1 – Jun. 1, ",
      "spacing": "36” x 24”",
-     "depth": "–––"
+     "depth": "–––",
+     img: "https://blog.jungseed.com/wp-content/uploads/2021/03/Growing-Asparagus-1024x683.jpg"
     },
     {
      "id": 32,
@@ -285,7 +317,8 @@ const plants = [
      "cultivars": "Banana Supreme, Kuberille, Sweet Banana",
      "plantingDates": "Apr. 1 – Jun. 1, ",
      "spacing": "36” x 24”",
-     "depth": "–––"
+     "depth": "–––",
+     img: "https://blog.jungseed.com/wp-content/uploads/2021/03/Growing-Asparagus-1024x683.jpg"
     },
     {
      "id": 33,
@@ -294,7 +327,8 @@ const plants = [
      "cultivars": "Red (Pontiac), White (Kennebac, Atlantic, Yukon Gold)",
      "plantingDates": "Jan. 15 – Mar. 1, ",
      "spacing": "36” x 12”",
-     "depth": "4”-5”"
+     "depth": "4”-5”",
+     img: "https://blog.jungseed.com/wp-content/uploads/2021/03/Growing-Asparagus-1024x683.jpg"
     },
     {
      "id": 34,
@@ -303,7 +337,8 @@ const plants = [
      "cultivars": "Centennial, Georgia Red, Giant Jet, Hernandes, Red Jewel",
      "plantingDates": "April 15 – Jun. 15, ",
      "spacing": "36” x 12”",
-     "depth": "–––"
+     "depth": "–––",
+     img: "https://blog.jungseed.com/wp-content/uploads/2021/03/Growing-Asparagus-1024x683.jpg"
     },
     {
      "id": 35,
@@ -312,7 +347,8 @@ const plants = [
      "cultivars": "Little Ironsides",
      "plantingDates": "May 15 – Jul. 1 (depending on maturity date), ",
      "spacing": "72” x 48”",
-     "depth": "1”"
+     "depth": "1”",
+     img: "https://blog.jungseed.com/wp-content/uploads/2021/03/Growing-Asparagus-1024x683.jpg"
     },
     {
      "id": 36,
@@ -321,7 +357,8 @@ const plants = [
      "cultivars": "Small Sugar, Sugar Baby, Touch of Autumn",
      "plantingDates": ", ",
      "spacing": "72” x 48”",
-     "depth": "1”"
+     "depth": "1”",
+     img: "https://blog.jungseed.com/wp-content/uploads/2021/03/Growing-Asparagus-1024x683.jpg"
     },
     {
      "id": 37,
@@ -330,7 +367,8 @@ const plants = [
      "cultivars": "Autumn Gold, Jack O Lantern, Jack of All Trades",
      "plantingDates": ", ",
      "spacing": "72” x 48”",
-     "depth": "1”"
+     "depth": "1”",
+     img: "https://blog.jungseed.com/wp-content/uploads/2021/03/Growing-Asparagus-1024x683.jpg"
     },
     {
      "id": 38,
@@ -339,7 +377,8 @@ const plants = [
      "cultivars": "Aladdin, Gold Rush, Major Lantern, Merlin",
      "plantingDates": ", ",
      "spacing": "72” x 48”",
-     "depth": "1”"
+     "depth": "1”",
+     img: "https://blog.jungseed.com/wp-content/uploads/2021/03/Growing-Asparagus-1024x683.jpg"
     },
     {
      "id": 39,
@@ -348,7 +387,8 @@ const plants = [
      "cultivars": "Dill’s Atlantic, Giant, Prize Winner",
      "plantingDates": ", ",
      "spacing": "72” x 48”",
-     "depth": "1”"
+     "depth": "1”",
+     img: "https://blog.jungseed.com/wp-content/uploads/2021/03/Growing-Asparagus-1024x683.jpg"
     },
     {
      "id": 40,
@@ -357,7 +397,8 @@ const plants = [
      "cultivars": "Cherry Bell, Scarlet Globe, Champion",
      "plantingDates": "Jan. 15 – Apr. 1, Sep. 1 – Oct. 15",
      "spacing": "24” x 1”",
-     "depth": "0.5”"
+     "depth": "0.5”",
+     img: "https://blog.jungseed.com/wp-content/uploads/2021/03/Growing-Asparagus-1024x683.jpg"
     },
     {
      "id": 41,
@@ -366,7 +407,8 @@ const plants = [
      "cultivars": "Melody, Winter Bloomsdale, Hybrid #7",
      "plantingDates": "Jan. 15 – Mar. 15, Sep. 1 – Oct. 15",
      "spacing": "18-36” x 2”",
-     "depth": "0.5”-0.75”"
+     "depth": "0.5”-0.75”",
+     img: "https://blog.jungseed.com/wp-content/uploads/2021/03/Growing-Asparagus-1024x683.jpg"
     },
     {
      "id": 42,
@@ -375,7 +417,8 @@ const plants = [
      "cultivars": "Any yellow or green—all are good and easy to grow. Use compact varieties for limited-space gardens.",
      "plantingDates": "Apr. 1 – May 15, Aug. 1 – Aug. 25",
      "spacing": "36” x 24”",
-     "depth": "1”-2”"
+     "depth": "1”-2”",
+     img: "https://blog.jungseed.com/wp-content/uploads/2021/03/Growing-Asparagus-1024x683.jpg"
     },
     {
      "id": 43,
@@ -384,7 +427,8 @@ const plants = [
      "cultivars": "Acorn, Buttercup Bonbon, Butternut",
      "plantingDates": "Apr. 1 – Jul. 1, ",
      "spacing": "60” x 36”",
-     "depth": "1”-2”"
+     "depth": "1”-2”",
+     img: "https://blog.jungseed.com/wp-content/uploads/2021/03/Growing-Asparagus-1024x683.jpg"
     },
     {
      "id": 44,
@@ -393,7 +437,8 @@ const plants = [
      "cultivars": "Bush – Celebrity, Early Girl\nBHN 444, BHN 640, Celebrity, Mountain Fresh, Mountain Spring, Rutgers, Amelia, Mountain Pride",
      "plantingDates": "Mar. 25 – May 1, Jun. 15 – Jul. 15",
      "spacing": "48” x 24”",
-     "depth": "–––"
+     "depth": "–––",
+     img: "https://blog.jungseed.com/wp-content/uploads/2021/03/Growing-Asparagus-1024x683.jpg"
     },
     {
      "id": 45,
@@ -402,7 +447,8 @@ const plants = [
      "cultivars": "Early Girl, Better Boy, Big Beef, Big Boy, Beefmaster",
      "plantingDates": "Mar. 25 – May 1, Jun. 15 – Jul. 15",
      "spacing": "48” x 24”",
-     "depth": "–––"
+     "depth": "–––",
+     img: "https://blog.jungseed.com/wp-content/uploads/2021/03/Growing-Asparagus-1024x683.jpg"
     },
     {
      "id": 46,
@@ -411,7 +457,8 @@ const plants = [
      "cultivars": "Jolly, Sweet Baby Girl, Super Sweet 100",
      "plantingDates": "Mar. 25 – May 1, Jun. 15 – Jul. 15",
      "spacing": "48” x 24”",
-     "depth": "–––"
+     "depth": "–––",
+     img: "https://blog.jungseed.com/wp-content/uploads/2021/03/Growing-Asparagus-1024x683.jpg"
     },
     {
      "id": 47,
@@ -420,7 +467,8 @@ const plants = [
      "cultivars": "Grape, Juliet",
      "plantingDates": "Mar. 25 – May 1, Jun. 15 – Jul. 15",
      "spacing": "48” x 24”",
-     "depth": "–––"
+     "depth": "–––",
+     img: "https://blog.jungseed.com/wp-content/uploads/2021/03/Growing-Asparagus-1024x683.jpg"
     },
     {
      "id": 48,
@@ -429,7 +477,8 @@ const plants = [
      "cultivars": "Purple Top, Royal Crown",
      "plantingDates": "Jan. 15 – Apr. 1, Aug. 10 – Sep. 15",
      "spacing": "18-36” x 2”",
-     "depth": "0.5”"
+     "depth": "0.5”",
+     img: "https://blog.jungseed.com/wp-content/uploads/2021/03/Growing-Asparagus-1024x683.jpg"
     },
     {
      "id": 49,
@@ -438,7 +487,8 @@ const plants = [
      "cultivars": "Mardi Gras, Royal Majesty, Sangria",
      "plantingDates": "Mar. 20 – May 1, ",
      "spacing": "72” x 36-48",
-     "depth": "1”-2”"
+     "depth": "1”-2”",
+     img: "https://blog.jungseed.com/wp-content/uploads/2021/03/Growing-Asparagus-1024x683.jpg"
     },
     {
      "id": 50,
@@ -447,7 +497,8 @@ const plants = [
      "cultivars": "Baby Doll, Crimson Sweet, Ice Box, Imagination, Jade Star",
      "plantingDates": "Mar. 20 – May 1, ",
      "spacing": "72” x 36-48",
-     "depth": "1”-2”"
+     "depth": "1”-2”",
+     img: "https://blog.jungseed.com/wp-content/uploads/2021/03/Growing-Asparagus-1024x683.jpg"
     },
     {
      "id": 51,
@@ -456,7 +507,8 @@ const plants = [
      "cultivars": "Palm Melon, Solitaire",
      "plantingDates": "Mar. 20 – May 1, ",
      "spacing": "72” x 36-48”",
-     "depth": "1”-2”"
+     "depth": "1”-2”",
+     img: "https://blog.jungseed.com/wp-content/uploads/2021/03/Growing-Asparagus-1024x683.jpg"
     }
    ]
 
